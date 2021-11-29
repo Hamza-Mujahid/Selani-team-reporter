@@ -1,11 +1,13 @@
 import './App.css';
-import Counter from './Pages/Home Page/Home'
+import Login from './Pages/Login/Login'
+import SignUp from './Pages/SignUp/SignUp'
 
 
 let App = () => {
   return (
     <div className="App">
-     <Counter />
+     <Login />
+     <SignUp />
      </div>
   );
 }
