@@ -1,6 +1,6 @@
 import './Home.css';
 
-let Counter = () => {
+let Home = () => {
     return (
         <div>
            Welcome to the home page
@@ -8,4 +8,4 @@ let Counter = () => {
     );
 }
 
-export default Counter;
+export default Home;
